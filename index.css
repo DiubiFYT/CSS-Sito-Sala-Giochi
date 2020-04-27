@@ -1,6 +1,14 @@
 @import url('https://fonts.googleapis.com/css?family=Ubuntu');
 
-
+.bergamoarcadelogo {
+background-image: url("img/BGarcade.png");
+position: absolute;
+left: 136px;
+top: 349px;
+width: 1707px;
+height: 485px;
+z-index: 1;
+}
 
 body, html {
 
